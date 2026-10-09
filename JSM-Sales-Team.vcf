@@ -1,0 +1,27 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Sales Team;;;
+FN:Sales Team
+ORG:Jabatan Standard Malaysia;Knowledge Management
+TEL;TYPE=WORK,VOICE:+60380082900
+EMAIL;TYPE=WORK:sales@jsm.gov.my
+ADR;TYPE=WORK:;;Knowledge Management\, Aras 1\, Menara 1\, Menara Cyber Ax
+ is\, Jalan Impact;Cyberjaya;Selangor;63000;Malaysia
+item1.URL:https://www.jsm.gov.my/
+item1.X-ABLabel:Official website
+item2.URL:https://mysol.jsm.gov.my/
+item2.X-ABLabel:MySOL
+item3.URL:https://www.facebook.com/standardsmalaysia/
+item3.X-ABLabel:Facebook
+item4.URL:https://www.instagram.com/standards_my
+item4.X-ABLabel:Instagram
+item5.URL:https://www.tiktok.com/@standards_my
+item5.X-ABLabel:TikTok
+X-SOCIALPROFILE;TYPE=Facebook;X-USER=standardsmalaysia:https://www.faceboo
+ k.com/standardsmalaysia/
+X-SOCIALPROFILE;TYPE=Instagram;X-USER=standards_my:https://www.instagram.c
+ om/standards_my
+X-SOCIALPROFILE;TYPE=TikTok;X-USER=standards_my:https://www.tiktok.com/@st
+ andards_my
+NOTE:Malaysian Standards (MS) sales enquiries.
+END:VCARD
